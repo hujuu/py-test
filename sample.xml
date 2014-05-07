@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmark>
+    <site>
+        <name>google</name>
+        <url>http://www.google.co.jp/</url>
+    </site>
+    <site>
+        <name>yahoo</name>
+        <url>http://www.yahoo.co.jp/</url>
+    </site>
+    <site>
+        <name>python</name>
+        <url>http://www.python-izm.com/</url>
+    </site>
+</bookmark>
