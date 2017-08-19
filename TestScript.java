@@ -14,6 +14,7 @@ public class TestScript{
 		//System.setProperty("webdriver.chrome.driver", "C:\\home\\downloads\\chromedriver_win32\\chromedriver.exe");
 		//webDriver = new ChromeDriver();    
 		//Firefox用ドライバを使う場合はこっち
+		//ドライバを直接指定できる
 		System.setProperty("webdriver.gecko.driver", "/usr/local/bin/geckodriver");
 		System.out.println("ブラウザを開きます");
 		webDriver = new FirefoxDriver();
