@@ -17,11 +17,7 @@ public class SeleniScript{
 		//System.setProperty("webdriver.gecko.driver", "/usr/local/bin/geckodriver");
 		System.out.println("ブラウザを開きます");
 		webDriver = new FirefoxDriver();
-		/*
-		 * http://www.yahoo.co.jp/ にアクセスして、
-		 * <meta name="description" content="XXXX">
-		 * の「XXXX」の部分を取得する
-		 */
+		
 		System.out.println("指定のURLを開きます");
 		String url = "http://www.yahoo.co.jp/";
 		webDriver.get(url);
