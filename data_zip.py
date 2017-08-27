@@ -47,7 +47,6 @@ for i, header in enumerate(data_rows[0]):
 		data_headers.append(header)
 		
 header_match = zip(data_headers, all_short_headers)
-
 #print(list(header_match))
 
 for x in zipped_data[0]:
@@ -80,9 +79,7 @@ print(end_time)
 duration = end_time - start_time
 
 print(duration)
-
 print(duration.days)
-
 print(duration.total_seconds())
 
 minutes = duration.total_seconds() / 60.0

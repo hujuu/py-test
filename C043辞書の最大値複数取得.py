@@ -6,7 +6,6 @@ dat = input().split()
 
 count_dict = collections.Counter(dat)
 
-#print(count_dict)
 #max_key = max(count_dict.items(), key=lambda x:x[1])[0]
 
 # valueがmaxであるkeyを探してくる
