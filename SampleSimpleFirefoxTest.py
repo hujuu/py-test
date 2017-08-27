@@ -2,7 +2,6 @@ from selenium import webdriver
 
 # Firefoxを指定
 # browser = webdriver.Firefox()
-
 # GoogleChromeを指定
 # browser = webdriver.Chrome()
 

@@ -25,7 +25,6 @@ for x in range(0, people):
 	
 #print(result_lst) 
 result_lst.sort()
-#print(result_lst)
 
 for x in range(1, top+1):
 	print(result_lst[-x])
