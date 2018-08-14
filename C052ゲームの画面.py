@@ -9,5 +9,5 @@ width = abs(int(size_split[1]) * int(dr_split[0]))
 zone = abs(int(dr_split[0]) * int(dr_split[1]))
 
 res = height + width - zone
-# print(height, width, zone)
+
 print(res)
