@@ -1,0 +1,6 @@
+selenium
+chromedriver
+pytest
+xlrd
+requests
+openpyxl
