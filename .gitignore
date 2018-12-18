@@ -8,3 +8,7 @@ venv/lib/python3\.6/site-packages/
 venv/pyvenv\.cfg
 
 \.DS_Store
+
+\.cache/
+
+__pycache__/
