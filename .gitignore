@@ -12,3 +12,5 @@ venv/pyvenv\.cfg
 \.cache/
 
 __pycache__/
+
+\.ruby-version
