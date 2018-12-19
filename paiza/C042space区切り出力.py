@@ -26,8 +26,6 @@ for x in range(0, n):
 	#print(table[row-1][col-1])
 	table[row-1][col-1] = "W"
 	#print(table[row-1][col-1])
-	
-#print(table)
 
 for x in range(0, m):
 	print(' '.join(table[x]))
