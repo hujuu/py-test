@@ -4,7 +4,6 @@ from selenium import webdriver
 # browser = webdriver.Firefox()
 # GoogleChromeを指定
 # browser = webdriver.Chrome()
-
 # Safariを指定
 browser = webdriver.Safari()
 
