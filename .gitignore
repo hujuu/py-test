@@ -14,3 +14,5 @@ venv/pyvenv\.cfg
 __pycache__/
 
 \.ruby-version
+
+\.ipynb_checkpoints/
