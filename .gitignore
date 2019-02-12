@@ -16,3 +16,5 @@ __pycache__/
 \.ruby-version
 
 \.ipynb_checkpoints/
+
+*.csv
