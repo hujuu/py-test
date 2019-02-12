@@ -15,4 +15,4 @@ __pycache__/
 
 \.ruby-version
 
-*.csv
+\.ipynb_checkpoints/
