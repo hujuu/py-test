@@ -4,3 +4,4 @@ pytest
 xlrd
 requests
 openpyxl
+python-dotenv
